@@ -5,9 +5,20 @@
     <description></description>
     <link>/madai_keys/</link>
     <atom:link href="/madai_keys/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Nov 2019 11:46:41 +0900</pubDate>
-    <lastBuildDate>Mon, 11 Nov 2019 11:46:41 +0900</lastBuildDate>
+    <pubDate>Mon, 11 Nov 2019 11:47:30 +0900</pubDate>
+    <lastBuildDate>Mon, 11 Nov 2019 11:47:30 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>動作確認の記事</title>
+        <description>&lt;p&gt;自動でセッティングされるSSH接続の設定での動作確認&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Nov 2019 00:00:00 +0900</pubDate>
+        <link>/madai_keys/2019/11/11/6434.html</link>
+        <guid isPermaLink="true">/madai_keys/2019/11/11/6434.html</guid>
+        
+        <category></category>
+      </item>
     
   </channel>
 </rss>
