@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>/madai_keys/feed.xml</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/madai_keys/</loc>
+            
+                <changefreq>weekly</changefreq>
+                <priority>1</priority>
+                <lastmod>2019-11-11</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>/madai_keys/contact/message-sent/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/madai_keys/assets/img/icons/preloader.svg</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/madai_keys/assets/img/icons/read.svg</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/madai_keys/search.json</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/madai_keys/sitemap.xml</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/madai_keys/tags/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+    
+    
+</urlset>
